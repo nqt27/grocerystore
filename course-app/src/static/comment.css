@@ -1,0 +1,261 @@
+.review-item-container {
+    padding-left: 0px;
+}
+
+.ixChPW {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.review-item {
+    padding-left: 20px;
+}
+
+.ixChPW .review-item {
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 16px 20px 16px 0px;
+    border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.ixChPW .review-item > :not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.ixChPW .review-section {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.ewOEQO {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    margin-bottom: 0px;
+}
+
+.ixChPW .review-avatar {
+    max-width: 40px;
+    border-radius: 100%;
+    margin-right: 12px;
+}
+
+.ixChPW .review-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.gbHaVL {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    margin-bottom: 0px;
+}
+
+.jTwPyK {
+    display: flex;
+    color: orange;
+}
+
+.material-icons-wrapper.md-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.material-icons-wrapper {
+    display: flex;
+    width: 24px;
+    height: 24px;
+}
+
+.ixChPW .review-item > :not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.ixChPW .review-section {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.ewOEQO {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    margin-bottom: 0px;
+}
+
+.ixChPW .review-section {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.ixChPW .rated-date {
+    margin-right: 8px;
+}
+
+.color--light-disable {
+    color: rgb(184, 184, 184) !important;
+}
+
+.material-icons-wrapper.md-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.ixChPW .verified-icon {
+    margin-right: 4px;
+}
+
+.material-icons-wrapper {
+    display: flex;
+    width: 24px;
+    height: 24px;
+}
+
+.color--positive {
+    color: rgb(39, 174, 96) !important;
+}
+
+.gJvXJw {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    margin-bottom: 0px;
+}
+
+.rating {
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+}
+
+.rating .overall-rating {
+    border-radius: 2px;
+    background: rgb(0, 96, 196);
+    color: white;
+    font-size: 16px;
+    padding: 3px 10px;
+    margin-right: 16px;
+}
+
+.rating .overall-rating i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+.anticon {
+    display: inline-block;
+    color: inherit;
+    font-style: normal;
+    line-height: 0;
+    text-align: center;
+    text-transform: none;
+    vertical-align: -.125em;
+    text-rendering: optimizeLegibility;
+}
+
+.gKWetz {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    height: 20px;
+}
+
+.dnhtJh {
+    margin-right: 5px;
+}
+
+.hMJCFM {
+    position: absolute;
+    overflow: hidden;
+    top: -4px;
+}
+
+.block-comment {
+    width: 100%;
+    display: block;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+.block-comment__box-title {
+    padding: 1rem;
+    font-weight: 700;
+    color: #444444;
+}
+
+.block-comment__box-form-comment {
+    width: 100%;
+    float: left;
+    padding: 1rem;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%);
+    position: relative;
+}
+
+.cps-textarea {
+    width: calc(100% - (90px + 10px));
+    float: left;
+    box-shadow: rgb(60 64 67 / 10%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px 2px!important;
+    padding: 0.4rem 1rem 0.6rem 1rem;
+    border: 0;
+    outline: none;
+    font-size: 15px;
+}
+
+.block-comment .btn-send-cmt {
+    border: 0;
+    border-radius: 10px;
+    width: 62px;
+    height: 34px;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    float: left;
+    margin: 0 0 0 1rem;
+    background: #D70018;
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.error {
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    color: #D70018;
+}
+
+.rating-comment{
+    display: flex;
+    margin-left: 30px;
+    width: 100%;
+    height: 50px;
+}
+
+.star-comment{
+    font-size: 30px;
+    width: 40px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.star-comment-selected{
+    font-size: 30px;
+    width: 40px;
+    height: 50px;
+    color: orange;
+    cursor: pointer;
+}
